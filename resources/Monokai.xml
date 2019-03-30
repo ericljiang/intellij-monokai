@@ -6,6 +6,10 @@
     <property name="modified">2019-03-30T12:37:26</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
@@ -22,9 +26,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
     <option name="FILESTATUS_MERGED" value="b78fcc" />
-    <option name="FILESTATUS_MODIFIED" value="62baf5" />
+    <option name="FILESTATUS_MODIFIED" value="e6cd7e" />
     <option name="FILESTATUS_RENAMED" value="54bfbf" />
-    <option name="FILESTATUS_UNKNOWN" value="bf8060" />
+    <option name="FILESTATUS_UNKNOWN" value="77d984" />
     <option name="FILESTATUS_addedOutside" value="548049" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
     <option name="GUTTER_BACKGROUND" value="272822" />
@@ -888,8 +892,4 @@
       </value>
     </option>
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
 </scheme>
