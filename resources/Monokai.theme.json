@@ -10,9 +10,9 @@
 
       "infoForeground": "#6d6a80",
 
-      "selectionBackground": "#713a91",
-      "selectionForeground": "#D0D0D9",
-      "selectionInactiveBackground": "#3d3952",
+      "selectionBackground": "#75715E",
+      "selectionForeground": "#f8f8f2",
+      "selectionInactiveBackground": "#414339",
       "selectionBackgroundInactive": "#3d3952",
 
       "lightSelectionBackground": "#3a324a",
@@ -305,7 +305,7 @@
 
     "ToolWindow": {
       "Header": {
-        "background": "#1e1f1c",
+        "background": "#272822",
         "inactiveBackground": "#1e1f1c",
         "borderColor": "#1e1f1c"
       },
