@@ -127,10 +127,10 @@
 
     "EditorTabs": {
       "selectedForeground": "#D0D0D9",
-      "selectedBackground": "#343445",
-      "underlineColor": "#8b4bb3",
-      "inactiveMaskColor": "#0d0d0d33",
-      "borderColor": "#1a1721"
+      "selectedBackground": "#272822",
+      "underlineColor": "#34352f",
+      "inactiveMaskColor": "#34352f",
+      "borderColor": "#1e1f1c"
     },
 
     "FileColor": {
