@@ -32,11 +32,11 @@
 
       "errorForeground": "#dd3962",
 
-      "borderColor": "#4E4C63",
+      "borderColor": "#414339",
       "disabledBorderColor": "#45405C",
 
-      "focusColor": "#693687",
-      "focusedBorderColor": "#814F9E",
+      "focusColor": "#75715E",
+      "focusedBorderColor": "#75715E",
 
       "separatorForeground": "#6d6a80",
       "separatorColor": "#4e4b61",
@@ -46,29 +46,20 @@
     },
 
     "ActionButton": {
-      "hoverBackground": "#453e57",
-      "hoverBorderColor": "#453E57",
-      "pressedBackground": "#49415c",
-      "pressedBorderColor": "#49415C"
+      "hoverBackground": "#414339",
+      "hoverBorderColor": "#414339",
+      "pressedBackground": "#414339",
+      "pressedBorderColor": "#414339"
     },
 
     "Button": {
-      "startBackground": "#45405C",
-      "endBackground": "#45405C",
-      "startBorderColor": "#544F70",
-      "endBorderColor": "#544F70",
-      "shadowColor": "#27282B",
+      "startBackground": "#414339",
+      "endBackground": "#414339",
+      "startBorderColor": "#414339",
+      "endBorderColor": "#414339",
+      "shadowColor": "#27282B"
 
-      "default": {
-        "foreground": "#D0D0D9",
-        "startBackground": "#6B388F",
-        "endBackground": "#6B388F",
-        "startBorderColor": "#7C519C",
-        "endBorderColor": "#7C519C",
-        "focusedBorderColor": "#8465a6",
-        "focusColor": "#784299",
-        "shadowColor": "#27282B"
-      }
+
     },
 
     "Borders": {
@@ -77,12 +68,12 @@
     },
 
     "ComboBox": {
-      "nonEditableBackground": "#3A384D",
-      "background": "#343445",
+      "nonEditableBackground": "#414339",
+      "background": "#414339",
       "ArrowButton": {
-        "iconColor": "#9A97A8",
+        "iconColor": "#75715E",
         "disabledIconColor": "#454554",
-        "nonEditableBackground": "#3A384D"
+        "nonEditableBackground": "#414339"
       }
     },
 
@@ -280,13 +271,13 @@
     "Table.stripeColor": "#323242",
 
     "TextArea": {
-      "background": "#3A384D",
-      "selectionBackground": "#69418c"
+      "background": "#414339",
+      "selectionBackground": "#878b9180"
     },
 
     "TextField": {
-      "background": "#3A384D",
-      "selectionBackground": "#69418c"
+      "background": "#414339",
+      "selectionBackground": "#878b9180"
     },
 
     "ToggleButton": {
