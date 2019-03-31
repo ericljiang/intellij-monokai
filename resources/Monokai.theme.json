@@ -216,7 +216,7 @@
 
     "TableHeader.cellBorder": "3,0,3,0",
 
-    "Table.stripeColor": "#323242",
+    "Table.stripeColor": "#272822",
 
     "TextArea": {
       "background": "#414339",
